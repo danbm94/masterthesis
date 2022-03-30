@@ -1,4 +1,3 @@
-$ python
 
 ### Preprocessing
 import os
