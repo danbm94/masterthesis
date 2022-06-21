@@ -12,12 +12,14 @@ Clone this repository
 
 Create an virtual environment and activate it
 
-```python -m venv thesis-env
+```
+python -m venv thesis-env
 source thesis-env/bin/activate
 ```
 
 Install requirements
-```pip install --upgrade pip
+```
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 This repository consists of three different notebooks, each one for different data sets.
